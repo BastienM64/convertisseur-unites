@@ -1,0 +1,15 @@
+{
+  "name": "Convertisseur d'Unités de Distance",
+  "short_name": "Convertisseur",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f7f1",
+  "theme_color": "#1e4d2b",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
